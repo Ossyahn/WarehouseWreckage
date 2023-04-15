@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/aromero/Projects/Tests And Tutorials/UE5/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"/Users/aromero/Projects/Tests And Tutorials/UE5/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/aromero/Projects/Tests And Tutorials/UE5/WarehouseWreckage/WarehouseWreckage/Content/Maps/Default.umap"
 			]
 		}
 	]
